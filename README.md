@@ -3,7 +3,7 @@
 ###### inspired by [tgoetheyn's](https://github.com/tgoetheyn/Docker-NagiosXI) docker image
 
 to start
-> docker run -d -p 80:80 -p 443:443 -p 5666:5666 -p 5667:5667 --name nagiosxi localhost/nagiosxi
+> docker run -d -p 80:80 -p 443:443 -p 5666:5666 -p 5667:5667 --name nagiosxi izenn/nagiosxi
 
 to stop
 > docker stop -t 30 nagiosxi
