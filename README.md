@@ -17,6 +17,9 @@ Certificate files are located in the following locations:
 >
 > SSLCertificateKeyFile /etc/pki/tls/private/localhost.key
 
+to access:
+> http://YOUR_IP/nagiosxi/
+
 On first start you will be prompted with the Nagios XI startup wizard
 
 For licensing, use the free/limited (7 host/100 service check) license
