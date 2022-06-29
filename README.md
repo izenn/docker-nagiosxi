@@ -1,6 +1,6 @@
 # docker-nagiosxi
 ### Docker image for Nagios XI using Centos 7 and the Nagios XI RPM repositories 
-###### inspired by [tgoetheyn's](https://github.com/tgoetheyn) docker image
+###### inspired by [tgoetheyn's](https://github.com/tgoetheyn/Docker-NagiosXI) docker image
 
 to start
 > docker run -d -p 80:80 -p 443:443 -p 5666:5666 -p 5667:5667 --name nagiosxi localhost/nagiosxi
